@@ -6,7 +6,7 @@
         "index": 0,
         "name": "pitch",
         "paramId": "pitch",
-        "minimum": 2000,
+        "minimum": 200,
         "maximum": 20000,
         "exponent": 1,
         "steps": 0,
